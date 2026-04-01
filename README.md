@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1>用于换衣行人重识别的迭代扩散范式</h1>
+<h1>An Iterative Diffusion Paradigm for Cloth-Changing Person Re-Identification</h1>
 </div>
 
 ###  Environment Setup
